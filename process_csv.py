@@ -1,5 +1,11 @@
 import sqlite3
 
+"""
+Was created using the CSV file found at:
+<https://github.com/ravisorg/Area-Code-Geolocation-Database>
+So special thanks to 'ravisorg'
+"""
+
 sqlf = [
     'init_db.sql',
     'define_db.sql',
